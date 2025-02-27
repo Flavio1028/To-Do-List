@@ -44,6 +44,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/To-Do-List/",
               "budgets": [
                 {
                   "type": "initial",
