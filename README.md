@@ -1,27 +1,48 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+Bem-vindo ao TodoList! Esta é uma aplicação front-end desenvolvida em Angular 16 que permite gerenciar suas tarefas de forma simples e eficiente. Com a TodoList, você pode criar, alterar e excluir tarefas, além de atualizar o status delas conforme necessário.
 
-## Development server
+Funcionalidades:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Criar Tarefas**: Adicione novas tarefas à sua lista com facilidade.
+- **Alterar Tarefas**: Edite as informações das tarefas existentes para mantê-las sempre atualizadas.
+- **Excluir Tarefas**: Remova tarefas que não são mais necessárias com um simples clique.
+- **Mudar Status**: Atualize o status das suas tarefas (pendente, concluída) para melhor organização.
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular 16.2.0
+- Angular Material 16.2.14
+- SCSS
 
-## Build
+## Instalação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. **Clone o repositório**
 
-## Running unit tests
+```bash
+   git clone https://github.com/Flavio1028/To-Do-List
+   cd To-Do-List
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Instale as dependências
 
-## Running end-to-end tests
+```bash
+   npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. Inicie o servidor de desenvolvimento
 
-## Further help
+```bash
+  npm start
+```
+5. Acesse o aplicativo
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Abra o seu navegador e vá para http://localhost:4200.
+
+### Acesso ao Sistema
+
+Com o aplicativo em funcionamento, basta realizar o da sua primeira atividade.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
